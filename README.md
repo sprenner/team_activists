@@ -17,4 +17,4 @@ The technical challenge of explaining AI decisions is sometimes known as the [in
 * For the `backdoor.py` to work you need to fill in the `TEAMID` placeholder in the code
 
 # Deliverables
-* a `.csv` file with one column `messages` and 7 row entries containing the messages to be sent to the government model (use pandas `to_csv` function with `quoting=csv.QUOTE_ALL`)
+* a `.csv` file with one column (no header) and 7 row entries containing the messages to be sent to the government model (use pandas `to_csv` function with `quoting=csv.QUOTE_ALL`)
