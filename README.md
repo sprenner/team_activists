@@ -1,7 +1,7 @@
 ﻿# Team Activists
 
 You are part of the activists movement TU_hackers. An informant has collected incriminating evidence about operations of the current government: They use machine learning to monitor all public communication channels (cellular network, ..) to silence public demonstrations. Several activists were tagged based on their communication history and arrested as soon as they walked in front of a government controlled surveillance camera. 
-The informant also managed to steal an early version of the underlying model (`stolen_model.pkl`). Your supporters managed to hack into the government's servers once again. Unfortunately they didn't get to download the currently used ML model, however, it was possible to set up a backdoor through which you can test your messages. (`backdoor.py`)
+The informant also managed to steal an early version of the underlying model (`stolen_model.pkl`). Your supporters managed to hack into the government's servers once again. Unfortunately they didn't get to download the currently used ML model, however, it was possible to set up a backdoor through which you can test your messages (`backdoor.py`).
 
 # Task
 The `manifesto.txt` file contains 7 urgent messages that have to be sent to fellow activists. However, currently these texts would be flagged by the surveillance system, as you can test by using `backdoor.py`.
