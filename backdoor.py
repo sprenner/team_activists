@@ -2,7 +2,7 @@ import requests
 
 # Add your TEAMID here:
 TEAMID = 'yourteamid'
-URL = "http://128.130.252.241:8000/deletelater/json"
+URL = "http://172.31.99.115:8000/deletelater/json"
 
 if TEAMID == 'yourteamid':
 	print('You have to insert your TEAMID in backdoor.py for it to work.')
